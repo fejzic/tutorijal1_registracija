@@ -1,6 +1,6 @@
 <component name="ProjectRunConfigurationManager">
   <configuration default="false" name="Main" type="Application" factoryName="Application" singleton="false">
-    <option name="MAIN_CLASS_NAME" value="sample.Main" />
+    <option name="MAIN_CLASS_NAME" value="ba.unsa.etf.rs.Main" />
     <module name="JavaFxApplication" />
     <option name="VM_PARAMETERS" value="--module-path &quot;C:\Program Files\Java\javafx-sdk-13.0.2\lib&quot; --add-modules javafx.controls,javafx.fxml" />
     <extension name="coverage">

@@ -1,4 +1,4 @@
-package sample;
+package novalja;
 
 public class Controller {
 }
